@@ -24,7 +24,7 @@ Used one-hot encoding technique. Because this data has no hierachy
 ## Outlier detection
 Using seaborns boxplot and distplot functions.
 
-## Fetaure selection
+## Feature selection
 using `mutual_info_classif` class in scikit learn 
 
 ## Apply various ML algorithmns
