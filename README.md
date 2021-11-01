@@ -27,8 +27,8 @@ Using seaborns boxplot and distplot functions.
 ## Feature selection
 using `mutual_info_classif` class in scikit learn 
 
-## Apply various ML algorithmns
-|Algorithmn|training score|r2 score|MSE|MAE|RMSE|
+## Apply various ML algorithms
+|Algorithm|training score|r2 score|MSE|MAE|RMSE|
 |:--------:|:------------:|:------:|:-:|:-:|:--:|
 |RandomForestRegressor|0.9532330591083561|0.8188241648606751|3271201.7583914325|1129.4493479721677|1808.6463884329166|
 |LinearRegression|0.6186691314891613|0.602706267686143|7173296.343541427|1929.3244532095798| 2678.3010180973733|
@@ -42,7 +42,7 @@ Using import pickle module -pickle.dump(model)
 ## Hypertuning.
 Using randomizedsearchCV and Gridsearch techniques.
 
-After hypertuning, The `RandomForestRegressor` algorithmn improved to `0.84703670178341` r2 score.
+After hypertuning, The `RandomForestRegressor` algorithm improved to `0.84703670178341` r2 score.
 
        
 
